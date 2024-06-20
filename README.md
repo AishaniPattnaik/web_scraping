@@ -1,1 +1,2 @@
 # web_scraping
+This project was inspired when I was spending hours as a student, searching for the best flight deals when travelling to-and from my house, only to find out the price has increased by the time I was ready to purchase my ticket.  The solution is dynamic web-scraping. This project monitors flight prices for specific routes and dates. This project can be furtehr enhanced by sending email alerts when the prices drop below a user-defined threshold, helping travelers find the best deals.
