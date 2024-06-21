@@ -12,7 +12,7 @@ import schedule
 import os
 
 EMAIL_ADDRESS = 'aishanipattnaik@gmail.com'
-EMAIL_PASSWORD = 'Phili241004'
+EMAIL_PASSWORD = ''
 TO_EMAIL_ADDRESS = 'aishanipattnaik@gmail.com'
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
